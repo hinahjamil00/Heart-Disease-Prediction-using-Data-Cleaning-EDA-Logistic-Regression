@@ -105,9 +105,9 @@ The dataset contains medical information such as age, cholesterol level, chest p
 ## 📂 Project Structure
 
 ```text
+README.md
 heart.csv
 heart_data_loading_cleaning_logistic_regression.ipynb
-README.md
 
-## 👩‍💻 Author
-Hina Jamil
+
+
